@@ -22,7 +22,7 @@ Proyecto de aplicación Electron Js con la configuración necesaria para crear v
 
 
 ### tooltip-vanilla
-Funcionalidad para crear tooltips de ayuda visual y activarla con función desarrollada con javascript.
+Funcionalidad para crear tooltips de ayuda visual y activarlas por medio de función javascript.
 
 
 **[Ver repositorio](https://github.com/angeljsus/tooltip-vanilla)**
@@ -37,7 +37,6 @@ Proyecto de aplicación Electron JS desarrollado para obtener la información de
 
 ### da-autenticacion
 Información de peticiones de los métodos de autenticación por medio del LDAP.
-Información acerca de petición de autenticación del LDAP.
 
 **[Ver repositorio](https://github.com/angeljsus/da-autenticacion)**
 
