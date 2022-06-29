@@ -45,7 +45,8 @@ Información acerca de petición de autenticación del LDAP.
 ### funciones-javascript
 Repositorio de funciones Javascript.
 Dentro de este repositorio se almacenan los archivos de las funciones utilizadas para:
-- Remplazar carácteres raros 
+
+  - Remplazar carácteres raros.
 
 **[Ver repositorio](https://github.com/angeljsus/funciones-javascript )**
 
