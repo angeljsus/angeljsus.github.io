@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+## Repositorios
 
-You can use the [editor on GitHub](https://github.com/angeljsus/angeljsus.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### querys
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ejecutar consultas a base de datos SQLite, por medio de funciones Javascript.
 
-### Markdown
+####
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**[Ver repositorio](https://github.com/angeljsus/querys)**
+#
 
-```markdown
-Syntax highlighted code block
+### gulp-sqlite-electron
 
-# Header 1
-## Header 2
-### Header 3
+Proyecto por default para crear aplicación con Electron Js con funcionalidades de Gulp Tasks y librería para ejecutar consultas a base de datos SQLite precargada.
 
-- Bulleted
-- List
+####
 
-1. Numbered
-2. List
+**[Ver repositorio](https://github.com/angeljsus/gulp-sqlite-electron)**
+#
 
-**Bold** and _Italic_ and `Code` text
+### electron-modal
 
-[Link](url) and ![Image](src)
-```
+Configuración y funcionalidad para crear ventanas modales nativas dentro de una aplicación Electron Js.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+####
 
-### Jekyll Themes
+**[Ver repositorio](https://github.com/angeljsus/electron-modal)**
+#
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/angeljsus/angeljsus.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### tooltip-vanilla
 
-### Support or Contact
+Funcionalidad para mostrar ayuda visual deslizando el mouse sobre el elemento HTML.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+####
+
+**[Ver repositorio](https://github.com/angeljsus/tooltip-vanilla)**
+#
+
+### client-to-server
+
+Proyecto de aplicación desarrollada con Electron Js para insertar información almacenada dentro de la aplicación en el servidor de base de datos Mysql por medio de archivos comprimidos.
+
+####
+
+**[Ver repositorio](https://github.com/angeljsus/client-to-server)**
+#
+
+### da-autenticacion
+
+Información acerca de petición de autenticación del LDAP.
+
+####
+
+**[Ver repositorio](https://github.com/angeljsus/da-autenticacion)**
+#
+
+### funciones-javascript
+
+Repositorio de funciones Javascript. 
+####
+
+**[Ver repositorio](https://github.com/angeljsus/funciones-javascript )**
+#
+
