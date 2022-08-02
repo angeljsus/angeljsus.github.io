@@ -46,6 +46,7 @@ Repositorio de funciones Javascript.
 Dentro de este repositorio se almacenan los archivos de las funciones utilizadas para:
 
 *Remplazar carácteres raros.*
+*Recorrer los elementos de una lista html.*
 
 **[Ver repositorio](https://github.com/angeljsus/funciones-javascript )**
 
