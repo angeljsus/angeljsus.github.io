@@ -49,4 +49,11 @@ Dentro de este repositorio se almacenan los archivos de las funciones utilizadas
 
 **[Ver repositorio](https://github.com/angeljsus/funciones-javascript )**
 
+### funciones-fsextra
+Funcionalidades creadas a partir del módulo `fs-extra` y `path`. Las funcionalidades que se pueden utilizar son para crear, eliminar, renombrar y mover archivos.
+
+
+**[Ver repositorio](https://github.com/angeljsus/funciones-fsextra)**
+
+
 
