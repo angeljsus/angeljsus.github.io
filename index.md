@@ -51,10 +51,21 @@ Dentro de este repositorio se almacenan los archivos de las funciones utilizadas
 **[Ver repositorio](https://github.com/angeljsus/funciones-javascript )**
 
 ### funciones-fsextra
-Funcionalidades creadas a partir del módulo `fs-extra` y `path`. Las funcionalidades que se pueden utilizar son para crear, eliminar, renombrar y mover archivos.
+
+Funcionalidades creadas a partir del módulo `fs-extra` y `path`, para aplicaciones desarrolladas con [Vite-React-Electron](https://github.com/lTimeless/vite-reactts-electron-starter). Las funcionalidades que se pueden utilizar son para crear, eliminar, renombrar y mover archivos.
 
 
 **[Ver repositorio](https://github.com/angeljsus/funciones-fsextra)**
+
+### components-react
+
+Componentes creados para usar dentro de aplicaciones React.
+
+Listado de componentes:
+
+-- *ImageLoader:* cargar imágen verificando si hay conexión a internet.
+
+**[Ver repositorio]((https://github.com/angeljsus/components-react)**
 
 
 
