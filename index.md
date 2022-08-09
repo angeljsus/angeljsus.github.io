@@ -65,7 +65,7 @@ Listado de componentes:
 
 -- *ImageLoader:* cargar imágen verificando si hay conexión a internet.
 
-**[Ver repositorio]((https://github.com/angeljsus/components-react)**
+**[Ver repositorio](https://github.com/angeljsus/components-react)**
 
 
 
