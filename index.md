@@ -1,5 +1,10 @@
 ## Repositorios
 
+### ftp-command
+Realizar transferencia de archivos de una carpeta local mediante FTP y ejecución por medio de un comando en consola.
+
+**[Ver repositorio](https://github.com/angeljsus/ftp-command)**
+
 ### querys
 Funcionalidades javascript para ejecutar consultas a la base de datos SQLite local por medio de funciones javascript.
 
